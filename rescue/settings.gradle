@@ -1,0 +1,2 @@
+rootProject.name='rescue'
+include ':app'
